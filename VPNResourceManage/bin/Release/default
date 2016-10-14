@@ -1,0 +1,30 @@
+<Source>
+  <VPNItem>
+    <Addr>167.160.36.10</Addr>
+    <User>sh</User>
+    <Pass>1234567</Pass>
+    <DialType>PPTP</DialType>
+    <Key>
+    </Key>
+    <Supplementary>
+    </Supplementary>
+  </VPNItem>
+  <VPNItem>
+    <Addr>104.238.150.157</Addr>
+    <User>cyy80</User>
+    <Pass>cyy80</Pass>
+    <DialType>L2TP</DialType>
+    <Key>123456</Key>
+    <Supplementary>
+    </Supplementary>
+  </VPNItem>
+  <VPNItem>
+    <Addr>qqqqqqq</Addr>
+    <User>qqqqqqqqq</User>
+    <Pass>qqqqqqqqq</Pass>
+    <DialType>PPTP</DialType>
+    <Key>
+    </Key>
+    <Supplementary>qqqqqqqqqqqqqqqqqqqq</Supplementary>
+  </VPNItem>
+</Source>

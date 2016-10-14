@@ -1,0 +1,10 @@
+<Source>
+  <VPNItem>
+    <Addr>1</Addr>
+    <User>1</User>
+    <Pass>1</Pass>
+    <DialType>L2TP</DialType>
+    <Key>1</Key>
+    <Supplementary>1</Supplementary>
+  </VPNItem>
+</Source>

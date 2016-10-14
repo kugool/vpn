@@ -1,0 +1,12 @@
+D:\pjts\VPN_manager\VPNResourceManage\bin\Release\VPNResourceManage.exe.config
+D:\pjts\VPN_manager\VPNResourceManage\bin\Release\VPNResourceManage.exe
+D:\pjts\VPN_manager\VPNResourceManage\bin\Release\VPNResourceManage.pdb
+D:\pjts\VPN_manager\VPNResourceManage\bin\Release\DotRas.dll
+D:\pjts\VPN_manager\VPNResourceManage\obj\Release\VPNResourceManage.csprojResolveAssemblyReference.cache
+D:\pjts\VPN_manager\VPNResourceManage\obj\Release\VPNResourceManage.EditEntityForm.resources
+D:\pjts\VPN_manager\VPNResourceManage\obj\Release\VPNResourceManage.LoginForm.resources
+D:\pjts\VPN_manager\VPNResourceManage\obj\Release\VPNResourceManage.ManageForm.resources
+D:\pjts\VPN_manager\VPNResourceManage\obj\Release\VPNResourceManage.Properties.Resources.resources
+D:\pjts\VPN_manager\VPNResourceManage\obj\Release\VPNResourceManage.csproj.GenerateResource.Cache
+D:\pjts\VPN_manager\VPNResourceManage\obj\Release\VPNResourceManage.exe
+D:\pjts\VPN_manager\VPNResourceManage\obj\Release\VPNResourceManage.pdb
